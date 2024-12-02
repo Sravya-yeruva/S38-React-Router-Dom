@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+.loginH{
+  font-size:1.9rem;
+  color:green;
+  padding:10px;
+  text-decoration:underline;
+}
+form{
+  background-color:lightskyblue;
+  border-radius:10px;
+  height:600px;
+  width:400px;
+  font-size:20px;
+  text-align:center;
+}
+form label{
+  display:inline-block;
+  width:150px;
+  
+}
+form Div{
+  margin:20px;
+}
+.checkBox{
+  width:200px;
+
+}
+button{
+  background-color:green;
+  color:white;
+  border-radius:10px;
+  padding:6px;
+  width:100px;
+  border:2px solid white;
+}
+.loginH1{
+    font-size:20px;
+}
+legend{
+  font-size:15px;
+  background-color: lightpink;
+  padding:3px;
+}
+.welcomeH1{
+  font-size:35px;
+  color:blue;
+  text-shadow: 4px 4px 4px palevioletred;
+
+}
+.welcomeH2{
+  font-size:30px;
+  color:red;
+}
+.welcomeP{
+  font-size:20px;
+  background-color:lightpink;
+}
+.welcomeP1{
+  font-size:18px;
+  color:darkred;
+  font-weight:bold;
+}
+.welcomeB{
+  border-radius:10px;
+  background-color:darkmagenta;
+  width:180px;
+  padding:10px;
+  font-size:15px;
+  border:3px solid lime;
+
+}
+.bg-img{
+  background-image: url(https://wallpaper-house.com/data/out/10/wallpaper2you_373651.jpg);
+  text-align: center;
+}
+.recipeH{
+  font-size:50px;
+  font-style: italic;
+  color:forestgreen;
+  text-align:center;
+
+}
+.recipeP{
+  font-size:30px;
+  font-weight:bold;
+}
+nav{
+  background-color:lightsalmon;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
